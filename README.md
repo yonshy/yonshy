@@ -1,1 +1,1 @@
-![header](https://github.com/yonshy/yonshy/tree/main/assets/img/img-readme.jpg)
+![header](assets/img/img-readme.jpg)
