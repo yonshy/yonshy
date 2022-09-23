@@ -3,7 +3,7 @@
 ## Я Front-end розробник, з доствідом роботи понад рік.
 
 ### МоЇ роботи:
-[![header](assets/img/img-readme.jpg)](yonshy.github.io/stansAssets/)
+[![header](assets/img/img-readme.jpg)](https://yonshy.github.io/stansAssets/)
 
 ### Технології: 
 ![flutter](https://img.shields.io/badge/-Html-261460?style=for-the-badge&logo=HTML5&logoColor=F57400)
