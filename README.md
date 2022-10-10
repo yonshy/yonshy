@@ -12,7 +12,6 @@
 
 ### Технології: 
 ![flutter](https://img.shields.io/badge/-Html-261460?style=for-the-badge&logo=HTML5&logoColor=F57400)
-![flutter](https://img.shields.io/badge/-Pug-261460?style=for-the-badge&logo=Pug&logoColor=00A5D3)
 ![flutter](https://img.shields.io/badge/-Bem-261460?style=for-the-badge&logo=BEM&logoColor=EAB813)
 ![flutter](https://img.shields.io/badge/-Css-261460?style=for-the-badge&logo=CSS3&logoColor=B9F400)
 ![flutter](https://img.shields.io/badge/-Scss-261460?style=for-the-badge&logo=Sass&logoColor=00B9D4)
