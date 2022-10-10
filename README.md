@@ -3,8 +3,11 @@
 ## Front-end розробник, з доствідом роботи понад рік.
 
 ### МоЇ роботи:
+#### Stan's Assets
 [![works](assets/img/stansAssets.jpg)](https://yonshy.github.io/stansAssets/)
+#### Sea Food
 [![works](assets/img/seaFood.jpg)](https://yonshy.github.io/seaFood/)
+#### Dude Shape
 [![works](assets/img/dudeShape.jpg)](https://yonshy.github.io/dudeShape/)
 
 ### Технології: 
