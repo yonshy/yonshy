@@ -4,6 +4,7 @@
 
 <!-- ## МоЇ роботи: -->
 <h2>Мої проєкти</h2>
+
 ### Stan's Assets
 [![works](assets/img/stansAssets.jpg)](https://yonshy.github.io/stansAssets/)
 ### Sea Food
