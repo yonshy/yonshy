@@ -8,9 +8,9 @@
 <img src ='assets/img/stansAssets.jpg'>
 </a>
 
-[![works](assets/img/stansAssets.jpg)](https://yonshy.github.io/stansAssets/)
+<!-- [![works](assets/img/stansAssets.jpg)](https://yonshy.github.io/stansAssets/) -->
 #### Sea Food
-[![works](assets/img/seaFood.jpg)](https://yonshy.github.io/seaFood/)
+[![works](assets/img/seaFood.jpg)](https://yonshy.github.io/seaFood/){:target="_blank"}
 #### Dude Shape
 [![works](assets/img/dudeShape.jpg)](https://yonshy.github.io/dudeShape/)
 
