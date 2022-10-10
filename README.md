@@ -4,7 +4,7 @@
 
 ### МоЇ роботи:
 #### Stan's Assets
-<a href ='https://yonshy.github.io/stansAssets/' target="_blank">
+<a href ='https://yonshy.github.io/stansAssets/' target='_blank'>
 <img src ='assets/img/stansAssets.jpg'>
 </a>
 
