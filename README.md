@@ -1,9 +1,11 @@
 ![header](assets/img/img-readme.jpg)
 
-## Я Front-end розробник, з доствідом роботи понад рік.
+## Front-end розробник, з доствідом роботи понад рік.
 
 ### МоЇ роботи:
 [![works](assets/img/stansAssets.jpg)](https://yonshy.github.io/stansAssets/)
+[![works](assets/img/seaFood.jpg)](https://yonshy.github.io/seaFood/)
+[![works](assets/img/dudeShape.jpg)](https://yonshy.github.io/dudeShape/)
 
 ### Технології: 
 ![flutter](https://img.shields.io/badge/-Html-261460?style=for-the-badge&logo=HTML5&logoColor=F57400)
