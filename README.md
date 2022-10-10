@@ -4,6 +4,10 @@
 
 ### МоЇ роботи:
 #### Stan's Assets
+<a href ='https://yonshy.github.io/stansAssets/' target="_blank">
+<img src ='assets/img/stansAssets.jpg'>
+</a>
+
 [![works](assets/img/stansAssets.jpg)](https://yonshy.github.io/stansAssets/)
 #### Sea Food
 [![works](assets/img/seaFood.jpg)](https://yonshy.github.io/seaFood/)
