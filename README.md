@@ -2,7 +2,8 @@
 
 # Front-end розробник, з доствідом роботи понад рік.
 
-## МоЇ роботи:
+<!-- ## МоЇ роботи: -->
+<h2>Мої проєкти</h2>
 ### Stan's Assets
 [![works](assets/img/stansAssets.jpg)](https://yonshy.github.io/stansAssets/)
 ### Sea Food
@@ -17,7 +18,7 @@
 ![flutter](https://img.shields.io/badge/-Scss-261460?style=for-the-badge&logo=Sass&logoColor=00B9D4)
 ![flutter](https://img.shields.io/badge/-JavaScript-261460?style=for-the-badge&logo=JavaScript&logoColor=F5F201)
 
-
+## Професійний досвіт роботи: 
 Веб-програміст/Верстальник сайтів. Маю знання Html5, Css3, Js, Scss, BEM. Маю навички SEO оптимізації, alt, meta tags. Надійність, адаптивність, валідність, кросбраузерність та оптимізація.
 
-## Мої контакти:
+## Контакти:
